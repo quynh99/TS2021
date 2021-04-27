@@ -21,7 +21,6 @@
 
 					
 					<p>Tác giả với cái tên Hạc Xanh chắc hẳn đã quá quen thuộc đối với những ai đam mê thể loại truyện tình cảm. Và cuốn sách Chờ yêu cũng chính là một trong số ấy, Hạc Xanh mang đến cho bạn đọc câu chuyện tình đẹp nhưng đượm buồn. </p>
-					<p>BookStore đặt mục tiêu trở thành hệ thống bán sách số một tại Việt Nam, và tiếp đến kết nối với các thị trường ngoài khu vực.</p>
 					<p  class="anh_gioithieu"><img src="imgs/banner/tintuc5.jpg" style="border: 1px solid #C8C4C4"></p> 
 					
 					<p>Cuốn sách Chờ Yêu được viết dưới dạng nhật ký, ghi chép lại những trăn trở và suy nghĩ rất thật về chuyện tình của chàng trai cô gái trong cuộc sống hiện đại. Họ không đơn thuần là yêu nhau mà còn nghĩ về nhau thường trực.</p>

@@ -14,7 +14,7 @@
 
 				<div class="row tintuc_first">
 					<div class="col-md-2 col_ngaydang">
-						<span class="ngaydang">December 14, 2019</span>
+						<span class="ngaydang">Jan 14, 2021</span>
 					</div>
 					<div class="col-md-1">
 						<img src="{{ asset('imgs/lienket_tt.png') }}" alt="" class="anh_lienket" >
@@ -33,7 +33,7 @@
 
 				<div class="row tintuc_first">
 					<div class="col-md-2 col_ngaydang">
-						<span class="ngaydang">December 14, 2019</span>
+						<span class="ngaydang">Jan 15 2021</span>
 					</div>
 					<div class="col-md-1">
 						<img src="{{ asset('imgs/lienket_tt.png') }}" alt="" class="anh_lienket" >

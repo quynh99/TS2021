@@ -2,25 +2,25 @@
 			<div class="container canso">
 				<div class=" col-md-3 coldb">
 					<i class="fas fa-user-graduate"></i>
-					<div class="num">678</div>
+					<div class="num">543</div>
 					<span>MEMBERS</span>
 				</div>
 
 				<div class="col-md-3 coldb">
 					<i class="fas fa-question-circle"></i>
-					<div class="num">1234</div>
+					<div class="num">3456</div>
 					<span>QUESTIONS</span>
 				</div>
 
 				<div class=" col-md-3 coldb">
 					<i class="fas fa-file-alt"></i>
-					<div class="num">750</div>
+					<div class="num">532</div>
 					<span>EXAMS</span>
 				</div>
 
 				<div class="col-md-3 coldb">
 					<i class="fas fa-users"></i>
-					<div class="num">1345</div>
+					<div class="num">2345</div>
 					<span>VISITORS</span>
 				</div>
 			</div>

@@ -57,7 +57,7 @@
 							     	
 							     	<div class="row hinhanh">
 							     		@foreach($dethi2 as $dt2)
-							     				<a href="hocsinh/dethi/{{$dt2->id_de}}" style="color: #000">
+							     				<a href="dethi/{{$dt2->id_de}}" style="color: #000">
 										     		<div class="col-md-3 dethi">
 											     		<img src="imgs/monhoc/{{ $dt2->hinhanh}}" width="199" height="150" alt="">
 											     		<p class="tenmon">{{ $dt2->tenmh}}</p>
@@ -199,8 +199,8 @@
 				<div class="card middle">
 					<div class="front anhfb1">
 						
-						<p class="fb1"><img src="{{ asset('imgs/fb1.png') }}" alt=""></p>
-						<p class="tenthisinh">Lê Thị Thảo</p>
+						<p class="fb1"><img src="{{ asset('imgs/fb1.jpg') }}" alt=""></p>
+						<p class="tenthisinh">Đặng Thị Thảo</p>
 						<p class="cmt"><span class="icon fa fa-quote-left"> </span>&nbsp;&nbsp; Trước tiên cho em gửi lời cảm ơn chân thành tới đội ngũ phát trển đã tạo ra cho em một môi trường học tập bổ ích và lý thú cùng  với số lượng câu hỏi đa dạng rất phù hợp với xu hướng hiện nay. Hệ thống có các bài giảng, bài tập, bài thi qua đó giúp em cải thiện được điểm số khả quan. &nbsp;<span class="icon fa fa-quote-right"> </span></p>
 						<p class="decoration"></p>
 					</div>
@@ -222,8 +222,8 @@
 			<div class="col-md-4">
 				<div class="card middle">
 					<div class="front anhfb2">
-						<p class="fb1"><img src="{{ asset('imgs/fb2.jpg') }}" alt=""></p>
-						<p class="tenthisinh">Nguyễn Như Quang</p>
+						<p class="fb1"><img src="{{ asset('imgs/fb4.jpg') }}" alt=""></p>
+						<p class="tenthisinh">Nguyễn Quang Mạnh</p>
 						<p class="cmt"> <span class="icon fa fa-quote-left"> </span>&nbsp;&nbsp;  Trước tiên cho em gửi lời cảm ơn chân thành tới đội ngũ phát trển đã tạo ra cho em một môi trường học tập bổ ích và lý thú cùng  với số lượng câu hỏi đa dạng rất phù hợp với xu hướng hiện nay. Hệ thống có các bài giảng, bài tập, bài thi qua đó giúp em cải thiện được điểm số khả quan. &nbsp;<span class="icon fa fa-quote-right"> </span></p>
 						<p class="decoration"></p>
 					</div>
@@ -245,8 +245,8 @@
 			<div class="col-md-4">
 				<div class="card middle">
 					<div class="front anhfb3">
-						<p class="fb1"><img src="{{ asset('imgs/fb3.png') }}" alt=""></p>
-						<p class="tenthisinh">Đoàn Thị Linh</p>
+						<p class="fb1"><img src="{{ asset('imgs/fb3.jpg') }}" alt=""></p>
+						<p class="tenthisinh">Trần Thị Linh</p>
 						<p class="cmt"><span class="icon fa fa-quote-left"> </span>&nbsp;&nbsp; Trước tiên cho em gửi lời cảm ơn chân thành tới đội ngũ phát trển đã tạo ra cho em một môi trường học tập bổ ích và lý thú cùng  với số lượng câu hỏi đa dạng rất phù hợp với xu hướng hiện nay. Hệ thống có các bài giảng, bài tập, bài thi qua đó giúp em cải thiện được điểm số khả quan. &nbsp;<span class="icon fa fa-quote-right"> </span></p>
 						<p class="decoration"></p>
 					</div>

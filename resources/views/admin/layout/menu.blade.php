@@ -59,10 +59,10 @@
 							    <span class="caret"></span>
 							    <ul class="dropdown-menu down_menu">
 							      <li>
-							      	<a href="{{url('thithptquocgia')}}" ><span>Đại cương</span> <i class="fas fa-angle-right ic1"></i></a>
+							      	<a href="{{url('daicuong')}}" ><span>Đại cương</span> <i class="fas fa-angle-right ic1"></i></a>
 							      </li>
 							      <li>
-							      	<a href="{{url('thihocki')}}"><span>Chuyên ngành</span><i class="fas fa-angle-right ic2"> </i></a>
+							      	<a href="{{url('chuyennganh')}}"><span>Chuyên ngành</span><i class="fas fa-angle-right ic2"> </i></a>
 							      </li>
 							    </ul>
 							  </div>

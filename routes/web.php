@@ -92,8 +92,8 @@ Route::post('thembinhluan/{id}','ThaoluandethiController@postthemcmt');
 Route::get('dethi/{id}','DeThiController@hocsinhctdethi');
 
 Route::get('search','TrangchuController@getSearch');
-Route::get('thithptquocgia','TrangchuController@getthithptquocgia');
-Route::get('thihocki','TrangchuController@getthihocky');
+Route::get('daicuong','TrangchuController@getdaicuong');
+Route::get('chuyennganh','TrangchuController@getchuyennganh');
 
 // Route::get('trangchu','MenuController@getmenu');
 

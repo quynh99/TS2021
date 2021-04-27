@@ -114,33 +114,31 @@ class TrangchuController extends Controller
     }
 
      
-     public function getthithptquocgia(){
+     public function getdaicuong(){
 
         $dethi = DB::table('dethi')
         ->join('monthi', 'monthi.id_mh', '=', 'dethi.id_mh')
         ->join('kythi', 'kythi.id_ky', '=', 'dethi.id_ky')
        ->select('monthi.tenmh','monthi.hinhanh','kythi.tenky','socau', 'thoigianthi','id_de')
        ->where('kythi.id_ky','=', '4')
-       ->where('trangthai','like', '%'.'Thi thử'.'%')
         
         ->get()->toArray();
 
-      return view('admin.tonghopdethi.thithptquocgia',['dethi'=>$dethi]);
+      return view('admin.tonghopdethi.daicuong',['dethi'=>$dethi]);
      }
 
      
-      public function getthihocky(){
+      public function getchuyennganh(){
 
         $dethi = DB::table('dethi')
         ->join('monthi', 'monthi.id_mh', '=', 'dethi.id_mh')
         ->join('kythi', 'kythi.id_ky', '=', 'dethi.id_ky')
        ->select('monthi.tenmh','monthi.hinhanh','kythi.tenky','socau', 'thoigianthi','id_de')
        ->where('kythi.id_ky','=', '5')
-       ->where('trangthai','like', '%'.'Thi thử'.'%')
         
         ->get()->toArray();
 
-      return view('admin.tonghopdethi.thihocky',['dethi'=>$dethi]);
+      return view('admin.tonghopdethi.chuyennganh',['dethi'=>$dethi]);
      }
 
      public function thamgiathi($id){
