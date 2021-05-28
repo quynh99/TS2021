@@ -56,7 +56,7 @@ return [
     */
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'lethinpc.quynhhy@gmail.com'),
+        'address' => env('MAIL_FROM_ADDRESS', 'npc.quynhhy@gmail.com'),
         'name' => env('MAIL_FROM_NAME', 'Hệ Thống Thi Trắc Nghiệm Trực Tuyến'), 
     ],
 
@@ -84,7 +84,7 @@ return [
     |
     */
 
-    'username' => 'lethinpc.quynhhy@gmail.com',
+    'username' => 'npc.quynhhy@gmail.com',
 
     'password' => 'efxtebsrqulpokms',
 

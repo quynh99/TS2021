@@ -6,7 +6,7 @@
 						<div class="col-md-1"></div>
 						<div class="col-md-1 doc">
 							<p class="add"><i class="fas fa-map"></i> ADDRESS</p>
-							<p class="diachi">Hưng Yên</p>
+							<p class="diachi">Hà Nội</p>
 						</div>
 						<div class="col-md-1 doc" >
 							<p class="add"><i class="fas fa-envelope-open"></i> EMAIL</p>
@@ -42,7 +42,7 @@
 				<div class="col-md-1"></div>
 				<div class="col-md-2">
 					<a href="{{url('trangchu') }}">
-						<img src="{{asset('imgs/cnhn.jpg') }}" alt="" width="80" height="60">
+						<img src="{{asset('imgs/logo.jpg') }}" alt="" width="80" height="60">
 						<span style="font-size:18px; color:red; margin-left:2px">Thi trực tuyến</span>
 					</a>
 					

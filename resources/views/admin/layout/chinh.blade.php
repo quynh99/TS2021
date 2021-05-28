@@ -33,7 +33,7 @@
 					
 	if (m == -1){
 		clearTimeout(timeout);
-		// alert('Hết giờ');
+		alert('Hết giờ');
 		window.location.assign("http://localhost:1412/thitructuyen/public/ketqua"); 
 							
 		return false;

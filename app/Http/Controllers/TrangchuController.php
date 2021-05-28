@@ -41,16 +41,6 @@ class TrangchuController extends Controller
        ->select('monthi.tenmh','monthi.hinhanh','kythi.tenky','socau', 'thoigianthi','id_de')
        ->where('kythi.id_ky','=', '2')
        ->where('trangthai','like', '%'.'Thi thử'.'%')->paginate(8);
-
-       // $menu = DB::table('menu')
-       // ->select('tenmenu','menu.id_menu')
-       // ->get()->toArray();
-
-       //  $menucon = DB::table('menu')
-       // ->join('menucon', 'menucon.id_menu', '=', 'menu.id_menu')
-       // ->select('tenmenu','menucon.noidung')
-       // ->where('menucon.id_menu','=', '5')
-       //  ->get()->toArray();
        return view('admin.layout.trangchu',['dethi'=>$dethi, 'dethi2'=>$dethi2, 'dethi3'=>$dethi3]);
     }
 
@@ -149,7 +139,6 @@ class TrangchuController extends Controller
         ->join('dethi', 'dethi.id_de', '=', 'ctdethi.id_de')
         ->where('ctdethi.id_de','=', $id)
         ->get()->pluck('id_cauhoi');
-// dd($soluongcau);
          $ctdethi = DB::table('ctdethi')
         ->join('cauhoi', 'cauhoi.id_cauhoi', '=', 'ctdethi.id_cauhoi')
         ->join('dethi', 'dethi.id_de', '=', 'ctdethi.id_de')
@@ -159,7 +148,6 @@ class TrangchuController extends Controller
 
         $ctbailam= DB::table('ctbailam')
       ->where('ctbailam.id_de','=',$id)->get()->pluck('id_cauhoi');
-        // dd($ctbailam);
       return view('admin.thitructuyen.thitructuyen',['dethi'=>$dethi, 'ctdethi'=>$ctdethi,'soluongcau'=>$soluongcau,'user'=>$user,'ctbailam'=>$ctbailam]);
 
      }

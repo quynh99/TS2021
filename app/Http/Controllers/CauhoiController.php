@@ -17,7 +17,7 @@ use Excel;
 class CauhoiController extends Controller
 {
      public function getCauhoi(){
-     	// $cauhoi = CauHoi::orderBy('id_cauhoi','DESC')->get(); //lấy ra giảm dần theo id
+     	 //lấy ra giảm dần theo id
         $cauhoi = DB::table('cauhoi')->orderBy('id_cauhoi','DESC')
         ->join('loaicauhoi','loaicauhoi.id_loaich','=','cauhoi.id_loaich')
         ->get()->toArray();
@@ -80,11 +80,6 @@ class CauhoiController extends Controller
         $cauhoi->d = $request->d;
 
         $nd = DB::table('cauhoi')->pluck('noidung')->toArray();
-        //dd($nd);
-        // @foreach($nd as $n){
-        //      return redirect("giaovien/cauhoi/themcauhoi")->with('thongbao',"Câu hỏi đã tồn tại, vui lòng nhập câu hỏi khác!");
-        // }
-        //  @endforeach
         
         if($request->hasFile('txtfile'))
         {

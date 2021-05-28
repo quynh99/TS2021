@@ -17,8 +17,8 @@
 	
 <div class="container" id=" main">
 <div class="row giohang" >
-						<div class="col-md-4"> <img src="imgs/bg_login.jpg" alt=""  style="border: 1px solid black" class="picture">
-						<a href="1.html"><img src="imgs/bg_login.jpg" alt=""  class="picture1"> </a> </div>
+						<div class="col-md-4"> <img src="imgs/bg_login_1.png" alt=""  style="border: 1px solid black" class="picture">
+						<a href="1.html"><img src="imgs/bg_login_1.png" alt=""  class="picture1"> </a> </div>
 						<div class="col-md-5" >
 									<h3 ><b ">Đắc Nhân Tâm</b></h3> <br>
 									<p><b>Tình trạng:</b> Còn hàng</p>
@@ -230,7 +230,7 @@
 								    <img src="img/bìa/timbinhyen1.gif "  class="media-object" width="60px" height="60px">
 								  </div>
 								  <div class="media-body">
-								    <p class="media-heading">Ngoc Thao</p>
+								    <p class="media-heading">Manh Quỳnh</p>
 								    <p style="font-size: 14px; color: #B3B2B2;">01/05/2018</p>
 								    <p style="color: #F9CA0D;margin-top: 10px;margin-bottom: 0px">
 								 	<span class="glyphicon glyphicon-star "></span> 

@@ -43,7 +43,7 @@ subiz('setAccount', 'acqdqbopxrdhtmizzgjf');
 				<div class="col-md-1"></div>
 				<div class="col-md-1 doc">
 					<p class="add"><i class="fas fa-map"></i> ADDRESS</p>
-					<p class="diachi">Hưng Yên</p>
+					<p class="diachi">Hà Nội</p>
 				</div>
 				<div class="col-md-1 doc" >
 					<p class="add"><i class="fas fa-envelope-open"></i> EMAIL</p>
@@ -64,7 +64,7 @@ subiz('setAccount', 'acqdqbopxrdhtmizzgjf');
 				<div class="col-md-1"></div>
 				<div class="col-md-2">
 					<a href="file:///D:/XAMPP/htdocs/thitructuyen/resources/views/trangchu/trangchu.html">
-						<img src="{{ asset('imgs/cnhn.jpg') }}" alt="" width="200" height="100">
+						<img src="{{ asset('imgs/logo.jpg') }}" alt="" width="200" height="100">
 					</a>
 					
 				</div>
@@ -588,11 +588,10 @@ subiz('setAccount', 'acqdqbopxrdhtmizzgjf');
 				<div class="col-md-12 footer_lienhe">
 					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 					<p><img src="{{ asset('imgs/logo-light.png') }}" alt="" ></p>
-					<!-- <h2 class="lgo"><i class="fas fa-graduation-cap mucunhan"></i> <span>EXAMIN</span></h2> -->
-					<p><span class="glyphicon glyphicon-map-marker"></span >	&nbsp;Địa chỉ: Phù Cừ, Hưng Yên</p>
+			
+					<p><span class="glyphicon glyphicon-map-marker"></span >	&nbsp;Địa chỉ: Hà Nội</p>
 		  			<p><span class="glyphicon glyphicon-earphone"></span>&nbsp;	Điện thoại: 0389 666 273</p>
-					<p><span class="glyphicon glyphicon-phone-alt"></span> &nbsp;Hotline: (+84) 1648 46 6660</p>
-					<p class="guimail"><span class="glyphicon glyphicon-envelope"></span> &nbsp;	Email: ngocnpc.quynh@gmail.com</p>
+					<p class="guimail"><span class="glyphicon glyphicon-envelope"></span> &nbsp;	Email: npc.quynh@gmail.com</p>
 
 					<p >
 						<div class="email-box">
@@ -635,7 +634,7 @@ subiz('setAccount', 'acqdqbopxrdhtmizzgjf');
 			</div>
 		</div>
 		<div class="thelast">	
-			<p class="cop"><i class="far fa-copyright"></i> Copyright 2019 Develop by Ngoc Thao  
+			<p class="cop"><i class="far fa-copyright"></i> Copyright 2021 Develop by Dang Manh Quynh  
 				<span>
 					<i class="fas fa-envelope "></i>
 					<i class="fab fa-youtube-square"></i>

@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Thi Trực Tuyến</title>
-	<link rel="stylesheet" href="{{ url('css/trangdangnhap.css')}}">
+	<link rel="stylesheet" href="{{ url('css/dangnhap.css')}}">
 </head>
 <body>
 	<div style="color: #fff">

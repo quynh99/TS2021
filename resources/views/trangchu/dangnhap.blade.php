@@ -11,7 +11,7 @@
 </head>
 <body>
 	<div class="menu">
-		<div class="name"> <a href="trangchu"><img src="imgs/cnhn.jpg" alt=""> <!-- <i class="fas fa-graduation-cap"></i> -->Hệ thống thi trực tuyến</a></div>
+		<div class="name"> <a href="trangchu"><img src="imgs/logo.jpg" alt=""> <!-- <i class="fas fa-graduation-cap"></i> -->Hệ thống thi trực tuyến</a></div>
 	</div>
 	<div class="div">
 		<img src="../public/imgs/totnghiep.png" alt="" class="imgtotnghiep">
@@ -76,9 +76,9 @@
 	</div>
 
 	<div class="footer">	
-		<p class="system">	Trung tâm công nghệ thông tin và khoản thí</p>
-		<p class= "dchi"><i class="fas fa-home"></i> &nbsp;Xã Nhân Hòa, Huyện Phù Cừ, Tỉnh Hưng Yên - Trường Đại học Sư phạm Kỹ thuật Hưng Yên</p>
-		<p class ="dchi"><span class="glyphicon glyphicon-earphone"></span>&nbsp; 0389666273 -  <i class="far fa-envelope-open"> </i>&nbsp; lethinpc.quynhhy@gmail.com</p>
+		<p class="system">	Trung tâm công nghệ thông tin</p>
+		<p class= "dchi"><i class="fas fa-home"></i> &nbsp;Thành phố Hà Nội - Trường Đại học Công nghiệp Hà Nội</p>
+		<p class ="dchi"><span class="glyphicon glyphicon-earphone"></span>&nbsp; 0389666273 -  <i class="far fa-envelope-open"> </i>&nbsp; npc.quynh@gmail.com</p>
 	</div>
 </body>
 </html>

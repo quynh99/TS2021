@@ -34,8 +34,8 @@
 				
 				<div class="col-md-12 footer_lienhe">
 					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="{{url('trangchu')}}"><p style="color:white"><img src="{{asset('imgs/cnhn.jpg') }}" alt="" width="50" height="40">&nbsp;Thi trực tuyến</p></a>
-					<p><span class="glyphicon glyphicon-map-marker"></span >	&nbsp;Địa chỉ: Phù Cừ, Hưng Yên</p>
+					<a href="{{url('trangchu')}}"><p style="color:white"><img src="{{asset('imgs/logo.jpg') }}" alt="" width="50" height="40">&nbsp;Thi trực tuyến</p></a>
+					<p><span class="glyphicon glyphicon-map-marker"></span >	&nbsp;Địa chỉ: Hà Nội</p>
 		  			<p><span class="glyphicon glyphicon-earphone"></span>&nbsp;	Điện thoại: 0389 666 273</p>
 					<p class="guimail"><span class="glyphicon glyphicon-envelope"></span> &nbsp;	Email: npc.quynh@gmail.com</p>
 

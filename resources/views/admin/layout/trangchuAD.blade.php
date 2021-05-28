@@ -11,7 +11,7 @@
 </head>
 <body>
 	<div class="menu">
-		<div class="name"><a href="trangchu"><img src="imgs/cnhn.jpg" alt="" style="margin:5px">Hệ thống thi trực tuyến</a> </div>
+		<div class="name"><a href="trangchu"><img src="imgs/logo.jpg" alt="" style="margin:5px">Hệ thống thi trực tuyến</a> </div>
 	</div>
 	<div class="div">
 		<img src="../public/imgs/totnghiep.png" alt="" class="imgtotnghiep">

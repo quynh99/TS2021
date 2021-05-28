@@ -102,7 +102,7 @@
 	<!-- Navbar -->
 	<div class="navbar navbar-inverse" role="navigation" style="background-color: #213351;margin-top: -20px">
 		<div class="navbar-header">
-            <a class="navbar-brand" href="{{asset('giaovien/dash/dashbroad_gv')}}" style="font-size: 18px"><img src="../../imgs/cnhn.jpg" alt="" width="50" height="50" style="margin-top: -10px;margin-right:8px;display: inline;">
+            <a class="navbar-brand" href="{{asset('giaovien/dash/dashbroad_gv')}}" style="font-size: 18px"><img src="../../imgs/logo.jpg" alt="" width="50" height="50" style="margin-top: -10px;margin-right:8px;display: inline;">
                Hệ thống thi trực tuyến</a>
 			
 			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-icons">
@@ -469,7 +469,7 @@
 					</li>
 
 					<li class="language dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="" alt=""> <span>German</span> <b class="caret"></b></a>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="" alt=""> <span>English</span> <b class="caret"></b></a>
 						<ul class="dropdown-menu dropdown-menu-right icons-right">
 							<li><a href="#"><img src="" alt=""> Ukrainian</a></li>
 							<li class="active"><a href="#"><img src="" alt=""> English</a></li>

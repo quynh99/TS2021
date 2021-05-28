@@ -123,17 +123,18 @@ Highcharts.chart('container', {
     },
     xAxis: {
         categories: [
-            'Toán',
-            'Ngữ văn',
-            'Ngoại ngữ',
-            'Vật lý',
-            'Hóa học',
-            'Sinh học',
-            'GDCD',
-            'Tin học',
-            'Địa lý',
-            'Lịch sử',
-            'Công nghệ',
+            'Triết học Mac-Lenin',
+            'Đường lối cách mạng của Đảng Cộng sản Việt Nam',
+            'Tư tưởng Hồ Chí Minh',
+            'Java',
+            'PHP',
+            'Hệ quản trị cơ sở dữ liệu',
+            'Photoshop',
+            'Lập trình C',
+            'Lập trình C++',
+            'Kĩ năng giao tiếp',
+            'Mã nguồn mở',
+            'Lập trình C#'
             
         ],
         crosshair: true

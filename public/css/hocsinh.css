@@ -124,7 +124,7 @@ login*{
 
 
 .anhbanner{
-	background-image: url("../imgs/bg_login.jpg");
+	background-image: url("../imgs/bg_login_1.png");
 	width: 1490px;
 	height: 550px;
 	animation: slides 20s infinite;
@@ -145,7 +145,7 @@ login*{
 		
 	}
 	100%{
-		background: url("../imgs/bg_login.jpg");
+		background: url("../imgs/bg_login_1.png");
 		
 	}
 }
@@ -170,7 +170,7 @@ login*{
 
 
 .online, .training{
-	color: #fff;
+	color: black;
 	font-weight: bold;
 	font-size: 50px;
 }
@@ -181,10 +181,10 @@ login*{
 
 
 .view{
-	color: #fff;
+	color: black;
 	padding: 15px 40px;
 	font-weight: bold;
-	border: 2px solid #fff;
+	border: 2px solid black;
 	margin-right: 10px;
 
 }
@@ -203,7 +203,7 @@ login*{
 }
 
 .dream{
-	color: #fff;
+	color: black;
 	font-size: 30px;
 	position: absolute;
 	animation: traisang 0.8s forwards;
@@ -292,7 +292,7 @@ login*{
 
 .footer{
 	margin-top: 330px;
-	background-image: url('../imgs/gbfooter.jpg');
+	background-image: url('../imgs/ft.png');
 	height: 400px;
 	width: 100%;
 	color: #fff;
